@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kayode-Ayelagbe
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Fullstack development
+- 🌱 I’m currently learning Fullstack Webdevelopment
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me by email: kayode.ayelagbe@gmail.com
 
